@@ -1,0 +1,2 @@
+# /usr/lib/nagios/plugins//check_icmp -H x.x.x.x -w 100.0,20% -c 500.0,60%
+OK - x.x.x.x: rta 0.626ms, lost 0%|rta=0.626ms;100.000;500.000;0; pl=0%;20;60;; rtmax=0.646ms;;;; rtmin=0.617ms;;;; 
