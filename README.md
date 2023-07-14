@@ -15,5 +15,8 @@ So, once you know how to extract a metric, in order to build it as a NRPE script
 3. Read some samples of scripts (files ** `simple_nrpe_plugin*.sh` **)
 4. Write your script
 5. Test you script using the script ** `nrpeov.py` ** like this:
+
     ./your_nrpe_script | python3 nrpeov.py
 
+
+/ Angel Galindo Muñoz, July 2023
